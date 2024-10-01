@@ -16,7 +16,7 @@ This is a collection of papers and related topics for research.
    - [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226) 📄
 7. **🚀 Tasks**
    - 📝 Summarization
-   - - [GSum: A General Framework for Guided Neural Abstractive Summarization ~ 2021 NAACL](https://arxiv.org/abs/2010.08014) 📄
+       - [GSum: A General Framework for Guided Neural Abstractive Summarization ~ 2021 NAACL](https://arxiv.org/abs/2010.08014) 📄
    - 🌐 Translation
    - 🔍 NER (Named Entity Recognition)
    - And more...
