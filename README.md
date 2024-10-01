@@ -13,7 +13,7 @@ This is a collection of papers and related topics for research.
    - [LLM Pruning and Distillation in Practice: The Minitron Approach ~ 2024 NVIDIA](https://arxiv.org/abs/2408.11796) 📄
    
 6. **🔒 LLM Security**
-   - [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226) 📄
+   - [A Watermark for Large Language Models ~ 2023 ICML](https://arxiv.org/abs/2301.10226) 📄
 7. **🚀 Tasks**
    - 📝 Summarization
        - [GSum: A General Framework for Guided Neural Abstractive Summarization ~ 2021 NAACL](https://arxiv.org/abs/2010.08014) 📄
